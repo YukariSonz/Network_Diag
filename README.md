@@ -2,8 +2,7 @@
 A mini program that capture the packets and analyse if the system is attacked by DDoS
 
 
+# Configure
 
-##SETUP
 
-
-##Running
+# Running
